@@ -1,0 +1,19 @@
+{
+  "name": "evm-contract-helpers",
+  "version": "1.0.0",
+  "description": "This package contains library containing unified contract helpers for several web3 libraries.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Tests are not implemented\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:AlephVault/evm-contract-helpers.git"
+  },
+  "keywords": [
+    "ethereum",
+    "evm"
+  ],
+  "author": "Luis Masuelli",
+  "license": "MIT"
+}
